@@ -1,0 +1,7 @@
+In this script, we use the web3 library to connect to the Ethereum network via Infura. We define the getGasPrice function, which retrieves the current gas price using web3.eth.getGasPrice. The gas price is returned in wei and is converted to Gwei using web3.utils.fromWei.
+
+In the usage example, we call the getGasPrice function and log the current gas price to the console.
+
+Please make sure you have the necessary dependencies installed, including the web3 library. You can install it by running npm install web3.
+
+Note that this script provides an example usage and can be further customized or integrated into other scripts or applications as needed.
