@@ -1,4 +1,4 @@
-# Checking-Ethereum-Transaction-Status
+# Checking-Ethereum-Transaction-Status 
 Web3 script that allows you to retrieve the current gas price on the Ethereum network
 const Web3 = require('web3');
 
