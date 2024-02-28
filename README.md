@@ -21,3 +21,5 @@ async function getGasPrice() {
   const gasPrice = await getGasPrice();
   console.log(`Current gas price: ${gasPrice} Gwei`);
 })();
+
+# Checking-Ethereum-Transaction-Status   
